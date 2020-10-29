@@ -98,6 +98,7 @@ body {
 		padding-bottom: 3px;
 		font-size: 0.875em;
 		line-height: 1.14em; }
+	#news h2 { margin-bottom: 10px; }
 #twothousandsix { background-image:url('binary/stripe4.png'); }
 	#twothousandsix h3 { background-position: 80px -140px; }
 #outerspace { background-image:url('binary/stripe3.png'); }
